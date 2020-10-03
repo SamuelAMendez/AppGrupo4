@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppGrupo4</string>
+    <string name="def">Default</string>
+    <string name="button">Ingresar</string>
+    <string name="nombre">Inserta tu nombre</string>
+    <string name="nombre2">Su nombre</string>
+    <string name="button2">Ver</string>
+</resources>
